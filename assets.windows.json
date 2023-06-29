@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "localfile": "assets/appearances-e60d78a348bdd4e4103c1ffcd897a19c8a5c9715f6b2a6e4e0cb8d08acd93087.dat.lzma",
+      "localfile": "assets/appearances-e60d78a348bdd4e4103c1ffcd897a19c8a5c9715f6b2a6e4e0cb8d08acd93087.dat",
       "packedhash": "c66e8298749bea1cc62b8802bd88703685c84826d1c31acbceaa945a053200f9",
       "packedsize": 693577,
       "url": "assets/appearances-e60d78a348bdd4e4103c1ffcd897a19c8a5c9715f6b2a6e4e0cb8d08acd93087.dat.lzma",
@@ -9,7 +9,7 @@
       "unpackedsize": 3872947
     },
     {
-      "localfile": "assets/staticdata-c394f81374edfb0ad05272ad18b98c35efb5a3e9e338e38054e3b415e578772f.dat.lzma",
+      "localfile": "assets/staticdata-c394f81374edfb0ad05272ad18b98c35efb5a3e9e338e38054e3b415e578772f.dat",
       "packedhash": "519be9cdf2ef433c7224fa94d52e757831769069866675b745396c455cd1d6d5",
       "packedsize": 55826,
       "url": "assets/staticdata-c394f81374edfb0ad05272ad18b98c35efb5a3e9e338e38054e3b415e578772f.dat.lzma",
@@ -17,7 +17,7 @@
       "unpackedsize": 157798
     },
     {
-      "localfile": "assets/staticmapdata-982c7664544317e8e97800e72fb936e265f9f8dcffbaccb50cba21938c7638c4.dat.lzma",
+      "localfile": "assets/staticmapdata-982c7664544317e8e97800e72fb936e265f9f8dcffbaccb50cba21938c7638c4.dat",
       "packedhash": "2776cf33542affa180e25e6eac4a354d04254194be6f7735c3d499ab694b33ac",
       "packedsize": 180529,
       "url": "assets/staticmapdata-982c7664544317e8e97800e72fb936e265f9f8dcffbaccb50cba21938c7638c4.dat.lzma",
@@ -31233,7 +31233,7 @@
       "unpackedsize": 10334
     },
     {
-      "localfile": "assets/catalog-content.json.lzma",
+      "localfile": "assets/catalog-content.json",
       "packedhash": "2043de90090b5e66045eeb74396af7e9bb301e1fef897eedda92d1dd3ff7d8ee",
       "packedsize": 188413,
       "url": "assets/catalog-content.json.lzma",
@@ -31241,7 +31241,7 @@
       "unpackedsize": 884135
     },
     {
-      "localfile": "assets/map-2e06100db6d689932deb4bc3de50cea50d9aca17b308f0d1993e0aa2e45402d1.dat.lzma",
+      "localfile": "assets/map-2e06100db6d689932deb4bc3de50cea50d9aca17b308f0d1993e0aa2e45402d1.dat",
       "packedhash": "84e0eeaeee3fe9db7d51ad43effbf4ee6a52b272c9b77830cdeadd67bd929e0a",
       "packedsize": 69459,
       "url": "assets/map-2e06100db6d689932deb4bc3de50cea50d9aca17b308f0d1993e0aa2e45402d1.dat.lzma",
@@ -45305,7 +45305,7 @@
       "unpackedsize": 2165170
     },
     {
-      "localfile": "sounds/sounds-056aaec4d1dae55943ac470217e34921fc35a17b4133348602a8772f9e045204.dat.lzma",
+      "localfile": "sounds/sounds-056aaec4d1dae55943ac470217e34921fc35a17b4133348602a8772f9e045204.dat",
       "packedhash": "e331014769190beb6c12d2f95a4749cb922bbd269fb3f0123fe672fbc6e44937",
       "packedsize": 34902,
       "url": "sounds/sounds-056aaec4d1dae55943ac470217e34921fc35a17b4133348602a8772f9e045204.dat.lzma",

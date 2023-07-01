@@ -7699,11 +7699,11 @@
     },
     {
       "localfile": "Contents/MacOS/client.en.qm",
-      "packedhash": "fe1fe999f8e1bb05ff3ddba391a7e09ccec7977ad36ae035c6690b527f49b6c9",
-      "packedsize": 134924,
+      "packedhash": "b6863547e0b21e33dd4ef51c6aef32aae272f2a8553b66a443dee2768a7256d9",
+      "packedsize": 109116,
       "url": "Contents/MacOS/client.en.qm.lzma",
-      "unpackedhash": "e9dba652f5dd70456fefb25f29163c9fea994f871ad46b692dd2753cdd13cf8c",
-      "unpackedsize": 595610
+      "unpackedhash": "e4bc3e110e02deb1f56dde00dc159dfa2a87b2144a83f8dcbd87e142d73fb2f0",
+      "unpackedsize": 595600
     },
     {
       "localfile": "Contents/MacOS/graphics_resources.rcc",

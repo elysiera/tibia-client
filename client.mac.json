@@ -7690,6 +7690,14 @@
       "unpackedsize": 1223
     },
     {
+      "localfile": "Contents/MacOS/client-local",
+      "packedhash": "62dba3a5f9b13b51769fc07c25677b931f4103a3e632ea0255626153016f291a",
+      "packedsize": 10947272,
+      "url": "Contents/MacOS/client-local.lzma",
+      "unpackedhash": "093a332161641b3bc344a2d323e7391446af077f81859e58018b2d692bff8aa3",
+      "unpackedsize": 68887224
+    },
+    {
       "localfile": "Contents/MacOS/client",
       "packedhash": "65a241296e8ab741a18772272ed0b0358fb15e389c06cd00984768f3c190bb9f",
       "packedsize": 10947260,

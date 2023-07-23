@@ -1,5 +1,5 @@
 {
-  "version": "13.16.13209",
+  "version": "13.20.13623",
   "files": [
     {
       "localfile": "bin/Qt5Network.dll",
@@ -59,11 +59,11 @@
     },
     {
       "localfile": "bin/client.en.qm",
-      "packedhash": "45b970fec673b6f963d63e94d859f3e3059ab54fa647c564d218f670100d522d",
-      "packedsize": 134915,
+      "packedhash": "b0f82422376bdaad2b9f981d2a46c6e004233b6cafb722a2a230fbf2596ef6eb",
+      "packedsize": 132929,
       "url": "bin/client.en.qm.lzma",
-      "unpackedhash": "e4bc3e110e02deb1f56dde00dc159dfa2a87b2144a83f8dcbd87e142d73fb2f0",
-      "unpackedsize": 595600
+      "unpackedhash": "68ffb3cb207dac69fbc385d3a093d24697b0a573377839e616658b3b18ec661c",
+      "unpackedsize": 586723
     },
     {
       "localfile": "bin/Qt5QmlModels.dll",
@@ -91,11 +91,11 @@
     },
     {
       "localfile": "bin/graphics_resources.rcc",
-      "packedhash": "8d8808437b4095cb46375f14a2ade6ec16c0338d33b3ec4e92925c89f8e70edc",
-      "packedsize": 2956091,
+      "packedhash": "f5f083642f676e446368cd34b05b28838dee54dfaa7b9281bc69371d4d744f1c",
+      "packedsize": 2963202,
       "url": "bin/graphics_resources.rcc.lzma",
-      "unpackedhash": "577109929b8c51675b96d8d469a459a4dc0b1b637d8c0304ad1b5510effd44ac",
-      "unpackedsize": 3157169
+      "unpackedhash": "a19a914606cdecb85ef7ca80f6dac3e0709380cd7b8b43179a845588ee9d2b5e",
+      "unpackedsize": 3152232
     },
     {
       "localfile": "bin/Qt5Core.dll",
@@ -131,27 +131,27 @@
     },
     {
       "localfile": "bin/client-local.exe",
-      "packedhash": "ce69917758c596bc43faf3844b86e17d33df4234b62bca5312b4acb460a8c02e",
-      "packedsize": 4124011,
+      "packedhash": "fe37e3a813aceef7b40256be5334920059f2d1ab87c4b2e1e68d98f6e6879541",
+      "packedsize": 5263509,
       "url": "bin/client-local.exe.lzma",
-      "unpackedhash": "5eb961f0354210748ad8f0f30714595bff7ebc9d0978fb3f292d9d8850205a39",
-      "unpackedsize": 19218704
+      "unpackedhash": "e4215c50e0cdeddb0c226bb0a64b3714260e306f2cf73beefeddaab3bbf9ed0c",
+      "unpackedsize": 19255696
     },
     {
       "localfile": "bin/client.exe",
-      "packedhash": "68000d0b55663e8025be9d9d61d4ede7241ccdb0fac32005c4f2d7107673023d",
-      "packedsize": 5272465,
+      "packedhash": "3d4177e5197c0de91cf979a188415892206ce3db06caf19a232bd8cb95b5f516",
+      "packedsize": 5263502,
       "url": "bin/client.exe.lzma",
-      "unpackedhash": "d5224fe6d49ba05b871c94ffcf8dbed3392c1d86ee4647410725ada0886700e7",
-      "unpackedsize": 19218704
+      "unpackedhash": "0e7ba58ca15e21db4e2b42da047f4fbfec6d1a5f6b9c95ec309411481a5a2cdc",
+      "unpackedsize": 19255696
     },
     {
       "localfile": "bin/OpenAL32.dll",
-      "packedhash": "7f7bf7e2e7426cad7c487e41d39471852f0138865d8d9111cc36a1759265dd91",
-      "packedsize": 525103,
+      "packedhash": "5df74bc0b50b99f0c0862fc1bcdc0c31d294716d6bd28050ba13014a6277e12b",
+      "packedsize": 524043,
       "url": "bin/OpenAL32.dll.lzma",
-      "unpackedhash": "2f64abeacb92ad6dae109de0cc40fbda8cac30773978e527d65cb2223ba19f23",
-      "unpackedsize": 1686288
+      "unpackedhash": "0d287a2b32d1c4d85e611a8144c5050dc6917467d1685295b045798010526336",
+      "unpackedsize": 1676688
     },
     {
       "localfile": "bin/Qt5Quick.dll",
@@ -4898,14 +4898,6 @@
       "unpackedsize": 9196
     },
     {
-      "localfile": "3rdpartylicences/battleye-eula.txt",
-      "packedhash": "9d246a1afb14d51d76f4768b26d54b1eb56d85ec1eb36bd316d91a943c5430b5",
-      "packedsize": 1292,
-      "url": "3rdpartylicences/battleye-eula.txt.lzma",
-      "unpackedhash": "b9c8d8826c3292043d51ec63163b5ee7b577f78fa52dddd99843534b2a737a6a",
-      "unpackedsize": 2807
-    },
-    {
       "localfile": "3rdpartylicences/easyloggingpp.txt",
       "packedhash": "7beac3053ef20e77c9f049b2df07ca1b8517c0005ec6fb1a568445a651be493a",
       "packedsize": 774,
@@ -4917,5 +4909,5 @@
   "executable": "bin/client.exe",
   "generation": "second",
   "variant": "regular",
-  "revision": 3
+  "revision": 1
 }

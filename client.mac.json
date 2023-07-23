@@ -1,5 +1,5 @@
 {
-  "version": "13.16.13209",
+  "version": "13.20.13623",
   "files": [
     {
       "localfile": "Contents/Info.plist",
@@ -7674,14 +7674,6 @@
       "unpackedsize": 9144
     },
     {
-      "localfile": "Contents/Resources/3rdpartylicences/battleye-eula.txt",
-      "packedhash": "458d5e2dc3df307fa1eb22fe45b8fdeb1ab98d9efc83f8ff93f1acf224062728",
-      "packedsize": 1288,
-      "url": "Contents/Resources/3rdpartylicences/battleye-eula.txt.lzma",
-      "unpackedhash": "b3f49e5d946d59b769973bf9ee668a6bc6a4e0b6e0c4b0f117020ad90db7bd4f",
-      "unpackedsize": 2775
-    },
-    {
       "localfile": "Contents/Resources/3rdpartylicences/easyloggingpp.txt",
       "packedhash": "90433f76115a25281a02fe56a8768c82a5591fdbddab3df783f757f15769e6db",
       "packedsize": 766,
@@ -7691,35 +7683,35 @@
     },
     {
       "localfile": "Contents/MacOS/client-local",
-      "packedhash": "62dba3a5f9b13b51769fc07c25677b931f4103a3e632ea0255626153016f291a",
-      "packedsize": 10947272,
+      "packedhash": "c89b3927744043fd5840f45feeb6455766f716efc086e212a355a874bc3f3fcd",
+      "packedsize": 7023713,
       "url": "Contents/MacOS/client-local.lzma",
-      "unpackedhash": "093a332161641b3bc344a2d323e7391446af077f81859e58018b2d692bff8aa3",
-      "unpackedsize": 68887224
+      "unpackedhash": "bf304fdb1e8b416cf3e8a1a62b2522ae65f1bb33a49d1b52e5ccdce366360ecf",
+      "unpackedsize": 28091648
     },
     {
       "localfile": "Contents/MacOS/client",
-      "packedhash": "65a241296e8ab741a18772272ed0b0358fb15e389c06cd00984768f3c190bb9f",
-      "packedsize": 10947260,
+      "packedhash": "3461e9f9aa6a98af989564ca0c2f84cce2152cae2f059cae8832c92bacff45a2",
+      "packedsize": 7023710,
       "url": "Contents/MacOS/client.lzma",
-      "unpackedhash": "5cbc3c413a1764c8ed928cf190ed84dc7ea72c4c65c3057c9d594ffbe658cbf5",
-      "unpackedsize": 68887224
+      "unpackedhash": "3069966d911875b2083e4cabe339a3faca8117837c2888f1b15de7723c366131",
+      "unpackedsize": 28091648
     },
     {
       "localfile": "Contents/MacOS/client.en.qm",
-      "packedhash": "45b970fec673b6f963d63e94d859f3e3059ab54fa647c564d218f670100d522d",
-      "packedsize": 134915,
+      "packedhash": "b0f82422376bdaad2b9f981d2a46c6e004233b6cafb722a2a230fbf2596ef6eb",
+      "packedsize": 132929,
       "url": "Contents/MacOS/client.en.qm.lzma",
-      "unpackedhash": "e4bc3e110e02deb1f56dde00dc159dfa2a87b2144a83f8dcbd87e142d73fb2f0",
-      "unpackedsize": 595600
+      "unpackedhash": "68ffb3cb207dac69fbc385d3a093d24697b0a573377839e616658b3b18ec661c",
+      "unpackedsize": 586723
     },
     {
       "localfile": "Contents/MacOS/graphics_resources.rcc",
-      "packedhash": "8d8808437b4095cb46375f14a2ade6ec16c0338d33b3ec4e92925c89f8e70edc",
-      "packedsize": 2956091,
+      "packedhash": "f5f083642f676e446368cd34b05b28838dee54dfaa7b9281bc69371d4d744f1c",
+      "packedsize": 2963202,
       "url": "Contents/MacOS/graphics_resources.rcc.lzma",
-      "unpackedhash": "577109929b8c51675b96d8d469a459a4dc0b1b637d8c0304ad1b5510effd44ac",
-      "unpackedsize": 3157169
+      "unpackedhash": "a19a914606cdecb85ef7ca80f6dac3e0709380cd7b8b43179a845588ee9d2b5e",
+      "unpackedsize": 3152232
     },
     {
       "localfile": "Contents/PlugIns/imageformats/libqgif.dylib",
@@ -7963,11 +7955,11 @@
     },
     {
       "localfile": "Contents/Frameworks/libopenal.1.dylib",
-      "packedhash": "4931b7c97ba1671a0bd9408a4942a1b9276c39998538c7134946d36f72b6c472",
-      "packedsize": 397197,
+      "packedhash": "6f79896be98d849f7ac3a1825bed959e4cbbe43304c70241a5c0d9250ef29ed1",
+      "packedsize": 391745,
       "url": "Contents/Frameworks/libopenal.1.dylib.lzma",
-      "unpackedhash": "c3e021ebc3d5e301a6e8068cc968eac5cdfd989840f5c452d938c9516f6f4741",
-      "unpackedsize": 886152
+      "unpackedhash": "52ea1cad7ca408c75c1dadb478723f4637cbb41d274e2e692479476da4edaf13",
+      "unpackedsize": 869728
     },
     {
       "localfile": "Contents/Frameworks/QtPdf.framework/QtPdf",
@@ -9053,5 +9045,5 @@
   "executable": "Contents/MacOS/client",
   "generation": "second",
   "variant": "regular",
-  "revision": 5
+  "revision": 1
 }

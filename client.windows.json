@@ -163,10 +163,10 @@
     },
     {
       "localfile": "bin/client.exe",
-      "packedhash": "bac00a4ac53a3bd1742bfb0b91a06efc065bd4945728ffb27b3b708d2a15dc6c",
-      "packedsize": 5387153,
+      "packedhash": "07eb5f94939d47ad3129ea55fa2ad645a1417e99c26fada568e22c0f6143dc8b",
+      "packedsize": 5387157,
       "url": "bin/client.exe.lzma",
-      "unpackedhash": "8160f6c59915e150bd7c8cdc0a0e8d8f6234bc8e0007eaf02df012299a4e5d24",
+      "unpackedhash": "df40e45968bbd51f752d20d27a6717d52aabf41487c5fb394df37102e424ecd4",
       "unpackedsize": 19706256
     },
     {
@@ -5261,5 +5261,5 @@
   "executable": "bin/client.exe",
   "generation": "second",
   "variant": "regular",
-  "revision": 1
+  "revision": 2
 }

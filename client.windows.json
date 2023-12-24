@@ -147,34 +147,34 @@
     },
     {
       "localfile": "bin/client.exe",
-      "packedhash": "0c1584c23a1d6d9b7eab4ac4810210104d25e9f7ed687eb8fbff78f6ff7ae296",
+      "packedhash": "f2d5eb8480e89e069ce31214a96d879c82d44417b31e4aa1e18294990bb19db0",
       "packedsize": 5630464,
       "url": "bin/client.exe.lzma",
-      "unpackedhash": "0a0841570a39552d1e38321724e3cbe99242e02e92b43ea19fb5da7d8a3c18af",
+      "unpackedhash": "3ceba8b4411435e8a0045516bc0a38317b82b410ea2f8fad436e94327dcec044",
       "unpackedsize": 20085656
     },
     {
       "localfile": "bin/client-local.exe",
-      "packedhash": "3911842358d0b51e54abfc084a89ad417c43a6781c5565144b8b72ba6f1b404c",
+      "packedhash": "c9f269463295b26ee202d116cabbf270b4c028723fcd2117bceef4734972d323",
       "packedsize": 5630473,
       "url": "bin/client-local.exe.lzma",
-      "unpackedhash": "ac7a7062251e658bea5b654d372b1274607cf8dd6b5e710c7b7b4a301ac532e6",
+      "unpackedhash": "0ff893588194db56e8407b33e2733d2d30f3c245f151afbccd9e87eaeb6829ae",
       "unpackedsize": 20085656
     },
     {
       "localfile": "bin/client-bra.exe",
-      "packedhash": "5b63d2853cb602d7321161db0e0380fcebcdc385d62d68cb6e88b786fdd40f96",
+      "packedhash": "19caf3cdd6c9175dff79c97585d82460fddf934e768bc838028d92986d50baea",
       "packedsize": 5630468,
       "url": "bin/client-bra.exe.lzma",
-      "unpackedhash": "0223e13fe1233ac6d5b71e9e6d7e2f651e9615d6851e063e844d0c28d8d71b63",
+      "unpackedhash": "0134aab8a80fd11752ef5d09610ecf4ad61bbd9314482e37498811d1270c1244",
       "unpackedsize": 20085656
     },
     {
       "localfile": "bin/client-test.exe",
-      "packedhash": "4decb5c189971f3ea7a58fec59b30b1c0129df2908c9033249ee82fa1b3ed4eb",
+      "packedhash": "a0de9ff8d778fd7307e3fc401fa8a3b0ab7771ca734b4763249c5dafd6aa9ca6",
       "packedsize": 5630474,
       "url": "bin/client-test.exe.lzma",
-      "unpackedhash": "76378e4dd019f1284ea30f8f8538c3b8cf5640d7355aa619048112d1a083e654",
+      "unpackedhash": "49efe37f3eb0348e7f36e13c5461ff8d635a3354a66496488cbe4edc7ff89588",
       "unpackedsize": 20085656
     },
     {

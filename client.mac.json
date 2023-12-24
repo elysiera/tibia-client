@@ -1,13 +1,13 @@
 {
-  "version": "13.21.13831",
+  "version": "13.30.14434",
   "files": [
     {
       "localfile": "Contents/Info.plist",
-      "packedhash": "1048e77ad3e006a84f97551a5f209b26e56fd02e2c146d740a64b16039696b77",
-      "packedsize": 398,
+      "packedhash": "247466d04ceb7dbb37f4c5c1be5d8c6aa1c5db5a4b8fb7bb977007cf75427830",
+      "packedsize": 388,
       "url": "Contents/Info.plist.lzma",
-      "unpackedhash": "8d879144269415903970b26a780ee04898f0bc5317b599f3f30ab2bfd97f2869",
-      "unpackedsize": 855
+      "unpackedhash": "48a89f062e9175d9fe8bc128ef6177c41005173731b9de7a76d28cbd4f2dd76e",
+      "unpackedsize": 851
     },
     {
       "localfile": "Contents/Resources/qt.conf",
@@ -19,11 +19,11 @@
     },
     {
       "localfile": "Contents/Resources/Elysiera.icns",
-      "packedhash": "108c5697e0b62d2e8f77057632317d857d6e0bca8d189c75dd735a429d1c5fed",
-      "packedsize": 58791,
+      "packedhash": "6926952a4a0c3efe51cf04492f56f8369bc49bf1c4699e9ce2aa6b270eca0f9c",
+      "packedsize": 195964,
       "url": "Contents/Resources/Elysiera.icns.lzma",
-      "unpackedhash": "d0a3c7a408901392f11a8e17d50479d9d59029d4ea8f17e65105b40df768d3c0",
-      "unpackedsize": 58114
+      "unpackedhash": "5943182eb31b45885983163783f07d473bd55491469b718b495a73da35b92e40",
+      "unpackedsize": 203423
     },
     {
       "localfile": "Contents/Resources/qml/QtGraphicalEffects/HueSaturation.qml",
@@ -7874,92 +7874,52 @@
       "unpackedsize": 35744
     },
     {
-      "localfile": "Contents/Resources/3rdpartylicences/qt.txt",
-      "packedhash": "de88e54a4d8b58d085224810c6745f8b5a3d7225e0442fff15248f3f298190ac",
-      "packedsize": 13076,
-      "url": "Contents/Resources/3rdpartylicences/qt.txt.lzma",
-      "unpackedhash": "7c13f2507d6d86a1656afaaaa731c9d22415d7015e09253b435ba77277781cbb",
-      "unpackedsize": 39717
-    },
-    {
-      "localfile": "Contents/Resources/3rdpartylicences/google-protobuf.txt",
-      "packedhash": "59e6a1ea6ce84cdf53f5f2ca37cb437a5a5d05b358bb8143092864844c83975c",
-      "packedsize": 1152,
-      "url": "Contents/Resources/3rdpartylicences/google-protobuf.txt.lzma",
-      "unpackedhash": "d063f01e3e4fdd1893c4bf39c5af4a75906e850a400baf8a819fbec68b8732ed",
-      "unpackedsize": 2203
-    },
-    {
-      "localfile": "Contents/Resources/3rdpartylicences/sfml-3rdparty.txt",
-      "packedhash": "50375da45991c3e1ee3dd0e42dec0e6646ead7ebea89875e55d5f36a8b0718a3",
-      "packedsize": 9027,
-      "url": "Contents/Resources/3rdpartylicences/sfml-3rdparty.txt.lzma",
-      "unpackedhash": "a511151aeb9526bd1b1db553e8a5fb38808331d89bbfd08c2e3cac20d583b2e5",
-      "unpackedsize": 29495
-    },
-    {
-      "localfile": "Contents/Resources/3rdpartylicences/qt-3rdparty.txt",
-      "packedhash": "d49ac3af5798ad49e02e7fa5b60e03d749db223a4507ab99dbde76ea7bc90594",
-      "packedsize": 15524,
-      "url": "Contents/Resources/3rdpartylicences/qt-3rdparty.txt.lzma",
-      "unpackedhash": "d971c3bd69e12e1a19c243d2c3fef45d121d0629e90503cfa90a00df5f9c1fe4",
-      "unpackedsize": 85676
-    },
-    {
-      "localfile": "Contents/Resources/3rdpartylicences/apache-v2.txt",
-      "packedhash": "f501ebaac948b9a019943a5014aec91b919e93ea6a10bb7c645d9c7f7346b233",
-      "packedsize": 3356,
-      "url": "Contents/Resources/3rdpartylicences/apache-v2.txt.lzma",
-      "unpackedhash": "40756d8628b5e96ad30bbd5cb186266977decd8ced60de51d5e9ba880273fd6d",
-      "unpackedsize": 9144
-    },
-    {
-      "localfile": "Contents/Resources/3rdpartylicences/easyloggingpp.txt",
-      "packedhash": "90433f76115a25281a02fe56a8768c82a5591fdbddab3df783f757f15769e6db",
-      "packedsize": 766,
-      "url": "Contents/Resources/3rdpartylicences/easyloggingpp.txt.lzma",
-      "unpackedhash": "84054269cdc637b5d6dbca41fe4f1238ba1c3413bd9a795f1e86273511c44838",
-      "unpackedsize": 1223
-    },
-    {
-      "localfile": "Contents/MacOS/client-test",
-      "packedhash": "4f334de3cb9edf0ed0befb8f81417e61022c2c663615e5492a87026ba4b09b41",
-      "packedsize": 7113434,
-      "url": "Contents/MacOS/client-test.lzma",
-      "unpackedhash": "d1e0f1e285a5ce7323c02d29cf855b657c4b3417f41947ea5a77fb6bcc7087fa",
-      "unpackedsize": 28392440
+      "localfile": "Contents/MacOS/client",
+      "packedhash": "08e6f554e641845357c420c6f55e03c40095e15d9e347e1d1f5c8ba6a5760fc5",
+      "packedsize": 7423106,
+      "url": "Contents/MacOS/client.lzma",
+      "unpackedhash": "814600973241efd7ae8fba5d5e96bd065770ad6e59a1b8613c24c77b52afdf52",
+      "unpackedsize": 28667768
     },
     {
       "localfile": "Contents/MacOS/client-local",
-      "packedhash": "d01d044ca117729210de7ddeb84bd1b86fa3289eacff96d33bd9f616ddbc7d4d",
-      "packedsize": 7113432,
+      "packedhash": "800d70aefcdbe5baac8585354d7cd5cd0d34133db3793be2f1d5c685b762b435",
+      "packedsize": 7423104,
       "url": "Contents/MacOS/client-local.lzma",
-      "unpackedhash": "c7238452a167486f682834b9ed07caf02ba52a14a7b4802480f67ba5453e2c60",
-      "unpackedsize": 28392440
+      "unpackedhash": "5b6bc3cad7ec0d047c995be56e3805a03e8bb213fea3221eb25a17e61c95bd39",
+      "unpackedsize": 28667768
     },
     {
-      "localfile": "Contents/MacOS/client",
-      "packedhash": "6f05d488353c414efecdc04ef713b254dc09cff86367505ba79a2be518c73e86",
-      "packedsize": 7113428,
-      "url": "Contents/MacOS/client.lzma",
-      "unpackedhash": "e5bafc7b2e578dc44ba57d377f6877b31bd958d36c8320f7459f18639d348f51",
-      "unpackedsize": 28392440
+      "localfile": "Contents/MacOS/client-test",
+      "packedhash": "11df13a187dc88e165989e6b4e5314e588403be309d4069b13aa52de5c29336e",
+      "packedsize": 7423115,
+      "url": "Contents/MacOS/client-test.lzma",
+      "unpackedhash": "e67329466af10526747b7ff035c51b72b94a902e11946e02af886e0366651286",
+      "unpackedsize": 28667768
+    },
+    {
+      "localfile": "Contents/MacOS/client-bra",
+      "packedhash": "3a734637d30ced397d22f3ed255f8497a54e3673d96d383a664300096f4d94ef",
+      "packedsize": 7423112,
+      "url": "Contents/MacOS/client-bra.lzma",
+      "unpackedhash": "90091886121f5a7decae5e2c5f05ca948002487679134fdb7213d317456221e6",
+      "unpackedsize": 28667768
     },
     {
       "localfile": "Contents/MacOS/client.en.qm",
-      "packedhash": "052a478296a847ebae5018b5a4a9ad14447652e34e53a3287bd41636156f69a0",
-      "packedsize": 134835,
+      "packedhash": "b9be17a276d2b2d18e82e3fda43303493d93cf1021d2a9f9f991f9d7a2fe3fd6",
+      "packedsize": 138489,
       "url": "Contents/MacOS/client.en.qm.lzma",
-      "unpackedhash": "d7223bb2eb7ea24365f63c47537ef22cb493bfedc428c5850f766c313e9af7e9",
-      "unpackedsize": 595256
+      "unpackedhash": "023a0c7edf77510d9c6559021c961659403fd8c6c934a9542e6ee3085150aa70",
+      "unpackedsize": 613012
     },
     {
       "localfile": "Contents/MacOS/graphics_resources.rcc",
-      "packedhash": "a7b0ca7ac99f144a68ceb8c8c44ae54d762eeeb67b1d69aa25ba1c0094b4c8cb",
-      "packedsize": 2981698,
+      "packedhash": "9be2865f26f2b493155c47ce7ce9fc33648ba6824631339919d8b3f3a679356b",
+      "packedsize": 3190073,
       "url": "Contents/MacOS/graphics_resources.rcc.lzma",
-      "unpackedhash": "bd5a89a4694d0f8345629dcabdebee22611f5f4be1a51dd54c09c87a9e3aa478",
-      "unpackedsize": 3173264
+      "unpackedhash": "c521ec7bf966bef4ea806e04ae614abfa448ee2d8b6f8c3f6f6f3c584ddb5a7e",
+      "unpackedsize": 3401759
     },
     {
       "localfile": "Contents/PlugIns/imageformats/libqgif.dylib",
@@ -8235,11 +8195,11 @@
     },
     {
       "localfile": "Contents/Frameworks/libopenal.1.dylib",
-      "packedhash": "6f79896be98d849f7ac3a1825bed959e4cbbe43304c70241a5c0d9250ef29ed1",
-      "packedsize": 391745,
+      "packedhash": "44c9acf752ee0824aaad8b56f3eb8d6c517e07a6a2f9e9b56e25d561be0ae27c",
+      "packedsize": 482428,
       "url": "Contents/Frameworks/libopenal.1.dylib.lzma",
-      "unpackedhash": "52ea1cad7ca408c75c1dadb478723f4637cbb41d274e2e692479476da4edaf13",
-      "unpackedsize": 869728
+      "unpackedhash": "e505a31c3211ee5e046204989db317bb5f5dd6dc55800f303285ae69d4934ff9",
+      "unpackedsize": 1017584
     },
     {
       "localfile": "Contents/Frameworks/QtPdf.framework/QtPdf",
@@ -11101,5 +11061,5 @@
   "executable": "Contents/MacOS/client",
   "generation": "second",
   "variant": "regular",
-  "revision": 2
+  "revision": 1
 }

@@ -2,40 +2,40 @@
   "files": [
     {
       "localfile": "Contents/Resources/assets/appearances-cb561894a8adab96d3cb7dc7c853fe7d936aa53569342f122d89b1e48a28c208.dat",
-      "packedhash": "63ddee26464f8d2c5f35e1f21cadb28ea3d206c370e671da20306b799e099a3c",
-      "packedsize": 564914,
+      "packedhash": "4872b3fb1335a698cea046ed8fa98cc902c820ba1165d4e49c58f0de025b7370",
+      "packedsize": 732333,
       "url": "assets/appearances-cb561894a8adab96d3cb7dc7c853fe7d936aa53569342f122d89b1e48a28c208.dat.lzma",
-      "unpackedhash": "cb561894a8adab96d3cb7dc7c853fe7d936aa53569342f122d89b1e48a28c208",
-      "unpackedsize": 4114024
+      "unpackedhash": "89fcb63d3e788107709f4b9d6fa666cb5c312fe77e7781bd3361aa1a3bc5f60e",
+      "unpackedsize": 4114085
     },
     {
       "localfile": "Contents/Resources/assets/staticdata-29e10abfefd686a8a2346f6876b4d8294955819c36ac8c62a7b5c116e4a5bfe7.dat",
-      "packedhash": "6b1aabb5debfb9e631166e69c831fcbec51e3e96edc8afadad02122374369a79",
-      "packedsize": 48736,
+      "packedhash": "23dd59291f2bcf62340d83dd6f023b437213fa9fb1850d773bcc72e448693d5c",
+      "packedsize": 56933,
       "url": "assets/staticdata-29e10abfefd686a8a2346f6876b4d8294955819c36ac8c62a7b5c116e4a5bfe7.dat.lzma",
       "unpackedhash": "29e10abfefd686a8a2346f6876b4d8294955819c36ac8c62a7b5c116e4a5bfe7",
       "unpackedsize": 160516
     },
     {
       "localfile": "Contents/Resources/assets/staticmapdata-0a80d44e0a55e38bd087b9106f379efb2196193ef332f8b70480015d4cc1633f.dat",
-      "packedhash": "bebdcb9a07484b625b820ef30d562adf5fc133e1dcc7f4f7e6bda188798e988c",
-      "packedsize": 144581,
+      "packedhash": "242db2ab1d5032da60f9245e75cb903523b683fb2ab1187c179d2f3b5207a486",
+      "packedsize": 180523,
       "url": "assets/staticmapdata-0a80d44e0a55e38bd087b9106f379efb2196193ef332f8b70480015d4cc1633f.dat.lzma",
       "unpackedhash": "0a80d44e0a55e38bd087b9106f379efb2196193ef332f8b70480015d4cc1633f",
       "unpackedsize": 1454891
     },
     {
       "localfile": "Contents/Resources/assets/catalog-content.json",
-      "packedhash": "684a242855e4d4923af1216ba1d734a67264adfca95534b8aa8f3746ea07cb22",
-      "packedsize": 159623,
+      "packedhash": "a957411e1e80a9730be25e0cfd062181e9286702e9eb7f4a78d5251fbed2e0e7",
+      "packedsize": 200434,
       "url": "assets/catalog-content.json.lzma",
       "unpackedhash": "afcaba464e84c4101735f13b352e88724323dd65dfe260e46a9949755721b5ad",
       "unpackedsize": 853487
     },
     {
       "localfile": "Contents/Resources/assets/map-26c57db51b9bcccb5a6a781874d4796e127e275560973432044bd1fcaf01a161.dat",
-      "packedhash": "58e967a04513d97a17613f66bf5c71af0f92678d6b21237f728de69d6be00640",
-      "packedsize": 61905,
+      "packedhash": "d633657a0fbd690da6f3073f03a2f9ef488bb34bbde92a44c6643fe6613ce581",
+      "packedsize": 71401,
       "url": "assets/map-26c57db51b9bcccb5a6a781874d4796e127e275560973432044bd1fcaf01a161.dat.lzma",
       "unpackedhash": "26c57db51b9bcccb5a6a781874d4796e127e275560973432044bd1fcaf01a161",
       "unpackedsize": 178651

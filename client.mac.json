@@ -7907,19 +7907,19 @@
     },
     {
       "localfile": "Contents/MacOS/client.en.qm",
-      "packedhash": "b9be17a276d2b2d18e82e3fda43303493d93cf1021d2a9f9f991f9d7a2fe3fd6",
-      "packedsize": 138489,
+      "packedhash": "44f0602193fdcc22538614b6f68d648fab8a18c2e9b4ff2c12bc5efa1e21b062",
+      "packedsize": 138503,
       "url": "Contents/MacOS/client.en.qm.lzma",
-      "unpackedhash": "023a0c7edf77510d9c6559021c961659403fd8c6c934a9542e6ee3085150aa70",
-      "unpackedsize": 613012
+      "unpackedhash": "12f30e9eeb64d6c4587ae6032b3d914281476d2d716f1e7f08136641c821ce1b",
+      "unpackedsize": 613038
     },
     {
       "localfile": "Contents/MacOS/graphics_resources.rcc",
-      "packedhash": "9be2865f26f2b493155c47ce7ce9fc33648ba6824631339919d8b3f3a679356b",
-      "packedsize": 3190073,
+      "packedhash": "ae21e8f3001eddc87929fecd9fa0ca49dcb3c0c274a938da1dc6b5d5079cdd37",
+      "packedsize": 3197325,
       "url": "Contents/MacOS/graphics_resources.rcc.lzma",
-      "unpackedhash": "c521ec7bf966bef4ea806e04ae614abfa448ee2d8b6f8c3f6f6f3c584ddb5a7e",
-      "unpackedsize": 3401759
+      "unpackedhash": "51e97694ff93928e0c552be388751889deaa5db3b5b369d76a968ed5c668ee9f",
+      "unpackedsize": 3409789
     },
     {
       "localfile": "Contents/PlugIns/imageformats/libqgif.dylib",
@@ -11061,5 +11061,5 @@
   "executable": "Contents/MacOS/client",
   "generation": "second",
   "variant": "regular",
-  "revision": 3
+  "revision": 4
 }

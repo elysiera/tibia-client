@@ -107,11 +107,11 @@
     },
     {
       "localfile": "bin/graphics_resources.rcc",
-      "packedhash": "ae21e8f3001eddc87929fecd9fa0ca49dcb3c0c274a938da1dc6b5d5079cdd37",
-      "packedsize": 3197325,
+      "packedhash": "f8b36e85627e4003c0fe5ec9b99dd3bfd608f9443d10b191ccab2d474c83b8db",
+      "packedsize": 3198800,
       "url": "bin/graphics_resources.rcc.lzma",
-      "unpackedhash": "51e97694ff93928e0c552be388751889deaa5db3b5b369d76a968ed5c668ee9f",
-      "unpackedsize": 3409789
+      "unpackedhash": "06f07756cfca36d957f0c09574cbf4f0b921d3fda4bf35ee5b06b98a9f4403f6",
+      "unpackedsize": 3413260
     },
     {
       "localfile": "bin/Qt5Core.dll",

@@ -67,11 +67,11 @@
     },
     {
       "localfile": "bin/client.en.qm",
-      "packedhash": "44f0602193fdcc22538614b6f68d648fab8a18c2e9b4ff2c12bc5efa1e21b062",
-      "packedsize": 138503,
+      "packedhash": "eaa0bcaf5cd9ca2051ac7ea077c1200a2b10d13fc48e47bf95d5dfa5aa3299cf",
+      "packedsize": 138521,
       "url": "bin/client.en.qm.lzma",
-      "unpackedhash": "12f30e9eeb64d6c4587ae6032b3d914281476d2d716f1e7f08136641c821ce1b",
-      "unpackedsize": 613038
+      "unpackedhash": "13c81a7a15acd7799d21c5a875a4cbc36153149c2ce4b2c38b649cd239a30249",
+      "unpackedsize": 613101
     },
     {
       "localfile": "bin/Qt5QmlModels.dll",

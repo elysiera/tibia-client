@@ -2,11 +2,11 @@
   "files": [
     {
       "localfile": "Contents/Resources/assets/appearances-cb561894a8adab96d3cb7dc7c853fe7d936aa53569342f122d89b1e48a28c208.dat",
-      "packedhash": "3cf27559d3fc23fbc5184416ac3fb8de397ce02b36fd572213b589a4aa3b157f",
-      "packedsize": 732410,
+      "packedhash": "077196b042e9a509f8351e9738a5ced0db338beef06da46c0bb5bfc3261f25ea",
+      "packedsize": 732402,
       "url": "assets/appearances-cb561894a8adab96d3cb7dc7c853fe7d936aa53569342f122d89b1e48a28c208.dat.lzma",
-      "unpackedhash": "91516cac3a37b9b3b86797440b0a7d8a0661047ad3f1ea894e4132b3e0dfa482",
-      "unpackedsize": 4114874
+      "unpackedhash": "d49f1226ada766e6a0d73e4e606812f2b5a4284f30acbe2d04d548aff8cfc122",
+      "unpackedsize": 4114869
     },
     {
       "localfile": "Contents/Resources/assets/staticdata-29e10abfefd686a8a2346f6876b4d8294955819c36ac8c62a7b5c116e4a5bfe7.dat",
